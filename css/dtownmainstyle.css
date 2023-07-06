@@ -7,6 +7,24 @@
      font-weight: 700;
      margin-bottom: 0.3em;
  }
+ #fh5co-header-section {
+    background: #0000009c;
+    padding: 0;
+    width: 100%;
+}
+.sf-menu a {
+    color: rgba(255, 255, 255, 64%);
+    padding: 2.4em 1.3em !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-left: none;
+    border-top: none;
+    border-top: none;
+    text-decoration: none;
+    zoom: 1;
+    font-size: 13px;
+    border-bottom: none !important;
+}
  .fh5co-counters .fh5co-counter-label {
      color: rgb(255 255 255);
      text-transform: uppercase;
